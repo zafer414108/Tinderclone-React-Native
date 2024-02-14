@@ -40,6 +40,7 @@ getRandomNumber(min, max): A helper function that generates a random number betw
 PropTypes are defined for both FloatingHearts and AnimatedShape components.
 # Exports:
 The FloatingHearts component is exported as the default export.
+
 Screen Gif :
 
 
